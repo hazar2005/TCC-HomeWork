@@ -1,0 +1,7 @@
+C:\Users\ASUS\source\repos\TCC-HomeWork\TCC-HomeWork\bin\Debug\TCC-HomeWork.exe.config
+C:\Users\ASUS\source\repos\TCC-HomeWork\TCC-HomeWork\bin\Debug\TCC-HomeWork.exe
+C:\Users\ASUS\source\repos\TCC-HomeWork\TCC-HomeWork\bin\Debug\TCC-HomeWork.pdb
+C:\Users\ASUS\source\repos\TCC-HomeWork\TCC-HomeWork\obj\Debug\TCC-HomeWork.csproj.AssemblyReference.cache
+C:\Users\ASUS\source\repos\TCC-HomeWork\TCC-HomeWork\obj\Debug\TCC-HomeWork.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\TCC-HomeWork\TCC-HomeWork\obj\Debug\TCC-HomeWork.exe
+C:\Users\ASUS\source\repos\TCC-HomeWork\TCC-HomeWork\obj\Debug\TCC-HomeWork.pdb
